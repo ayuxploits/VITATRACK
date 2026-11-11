@@ -142,9 +142,6 @@ vitatrack/
 ```bash
 git clone https://github.com/ayuuXploits/VITATRACK.git
 cd vitatrack
-
-
-
 ```
 
 ### 2. Install dependencies
