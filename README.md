@@ -28,7 +28,7 @@
 [![Express](https://img.shields.io/badge/Express-5-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.1-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org)
 
-[**🚀 Live Demo**](https://ayuuXploits.github.io/VITATRACK/) &nbsp;·&nbsp; [**🐛 Report Bug**](https://github.com/ayuuXploits/VITATRACK/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D+) [**✨ Request Feature**](https://github.com/ayuuXploits/VITATRACK/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFeature%5D+)
+[**🚀 Live Demo**](https://ayuxploits.github.io/VITATRACK/) &nbsp;·&nbsp; [**🐛 Report Bug**](https://github.com/ayuxploits/VITATRACK/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D+) [**✨ Request Feature**](https://github.com/ayuxploits/VITATRACK/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFeature%5D+)
 
 <br/>
 
@@ -140,7 +140,7 @@ vitatrack/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayuuXploits/VITATRACK.git
+git clone https://github.com/ayuxploits/VITATRACK.git
 cd vitatrack
 ```
 
@@ -292,7 +292,7 @@ POST /api/log/sleep     # Log a sleep entry
 
 ## 📄 License
 
-**Copyright © 2026 ayuuXploits. All rights reserved.**
+**Copyright © 2026 ayuxploits. All rights reserved.**
 
 This software and its associated documentation are proprietary to Ayush Kumar. No part of this software may be copied, modified, merged, published, distributed, sublicensed, or sold without the express written permission of the owner.
 
@@ -300,6 +300,6 @@ This software and its associated documentation are proprietary to Ayush Kumar. N
 
 <div align="center">
 
-Built with ❤️ by [ayuuXploits](https://github.com/ayuuXploits)
+Built with ❤️ by [ayuxploits](https://github.com/ayuxploits)
 
 </div>
